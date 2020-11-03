@@ -1,2 +1,2 @@
-C'est ma nouvelle ligne 
+This is my new first line
 I modify it 
